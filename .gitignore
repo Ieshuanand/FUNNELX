@@ -13,3 +13,4 @@ build/
 *.pt
 *.h5
 *.log
+backend/static/plans/
