@@ -1,7 +1,7 @@
 # FunnelX — Multi-Agent B2B Lead-Gen & Outreach System
 
 FunnelX is an agentic B2B lead qualification and personalized cold outreach system. It implements a multi-agent pipeline coordinated by an orchestrator with structured LLM tool-calling and a strict human-in-the-loop approval gate.
-
+"© 2026 ieshu. This project is shared for portfolio purposes — please don't copy or redistribute."
 ---
 
 ## 🏗️ System Architecture
